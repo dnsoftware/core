@@ -1,2 +1,2 @@
-# APIATO Core Package
+# APIATO Корневой пакет
 
