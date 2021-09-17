@@ -24,7 +24,7 @@
         "php": "^7.4|^8.0",
         "apiato/container-installer": "^2.0.8",
         "prettus/l5-repository": "^2.7.4",
-        "fruitcake/laravel-cors": "^1.0.5",
+        "fruitcake/laravel-cors": "^2.0",
         "spatie/laravel-fractal": "^5.8.1",
         "vinkla/hashids": "^9.1.0",
         "laravel/tinker": "^2.6.0",
