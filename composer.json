@@ -21,7 +21,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.4.*|^8.0",
+        "php": "^7.4.3|^8.0",
         "apiato/container-installer": "^2.0.8",
         "prettus/l5-repository": "^2.7.4",
         "fruitcake/laravel-cors": "^2.0",
